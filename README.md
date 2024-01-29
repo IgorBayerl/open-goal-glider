@@ -1,3 +1,36 @@
+# Open Goal Glider
+
+## Introduction
+Welcome to **Open Goal Glider**, an open-source platform designed to motivate and track personal daily goals in a social and engaging way. Inspired by the gamification and social features of apps like Duolingo, Open Goal Glider helps users set, pursue, and share their achievements in various activities like drawing, programming, or any other personal hobby or skill.
+
+## Features
+Open Goal Glider offers a range of features to keep users motivated and engaged:
+- **Daily Streaks**: Track your daily activity and maintain streaks with visual animations.
+- **Experience Points (XP)**: Earn XP for each completed task or activity.
+- **Social Sharing**: Share your achievements and progress with friends and the community.
+- **Customizable Goals**: Set and manage your personal goals.
+- **Progress Tracking**: Visualize your journey with intuitive progress tracking.
+- **Reminders and Notifications**: Stay on track with custom reminders.
+
+## Getting Started
+(Instructions on how to install, set up, and start using Open Goal Glider will go here.)
+
+## Contributing
+We welcome contributions from the community! Whether it's improving the code, fixing bugs, or suggesting new features, your help is appreciated. Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+This project is licensed under the [MIT License](link-to-license-file) - see the [LICENSE.md](link-to-license-file) file for details.
+
+## Acknowledgments
+- Inspired by Duolingo's gamification and social features.
+- Thanks to all the contributors who spend time to improve this project.
+
+## Contact
+- Project Maintainer: [Your Name or GitHub Profile]
+- Project Email: [Your Email or Project Email]
+
+----
+
 [![CI](https://github.com/perkinsjr/t3-turbo-and-clerk/actions/workflows/ci.yml/badge.svg)](https://github.com/perkinsjr/t3-turbo-and-clerk/actions/workflows/ci.yml)
 
 # Create T3 Turbo with Clerk Authentication
